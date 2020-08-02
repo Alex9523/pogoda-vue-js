@@ -23,6 +23,7 @@
         </div>
 
       </div>
+      <a href="https://github.com/Alex9523/rogoda-vue-js">Git Hub</a>
     </main>  
   </div>
 </template>
@@ -179,5 +180,10 @@ body{
     font-weight: 700;
     font-style: italic;
     text-shadow:3px 6px rgba(0, 0, 0, 0.25);
+  }
+
+  a{
+    color:white;
+    text-decoration: none;
   }
 </style>
